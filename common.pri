@@ -1,5 +1,5 @@
-#ROJECT_ROOT_PATH = $${PWD}/
-PROJECT_ROOT_PATH = /home/user/WORKPLACE/SampleProj/
+PROJECT_ROOT_PATH = $${PWD}/
+#PROJECT_ROOT_PATH = /home/user/WORKPLACE/SampleProj/
 #PROJECT_ROOT_PATH = $${_PRO_FILE_PWD_}
 
 CONFIG(debug, debug|release) {

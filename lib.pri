@@ -1,0 +1,3 @@
+DESTDIR = $${LIBS_PATH}/
+VERSION = 0.0.1
+QMAKE_TARGET_COPYRIGHT = (c) Formoza Service
